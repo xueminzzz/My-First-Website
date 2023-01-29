@@ -2,13 +2,13 @@ div
 {
     text-align: center;
     font-size: 30px;
-    color: white;
+    color: black;
     padding: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
     height: 500px;
-    width:30%;
+    width:50%;
 }
 .one
 {
