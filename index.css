@@ -7,16 +7,17 @@ div
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 500px;
-    width:50%;
+    height: 100%;
 }
 .one
 {
     background-color:white;    
+    width: 50%;
     float: left;  
 }
 .two
 {
     background-color:grey;
-    float: left;
+    width: 50%;
+    float: right;
 }
